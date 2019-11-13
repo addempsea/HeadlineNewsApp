@@ -142,4 +142,11 @@ export default {
       color: tomato;
     }
 
+@media screen and (max-width: 480px) {
+  .images{
+    display: none;
+  }
+}
+
+
 </style>
